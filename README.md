@@ -12,9 +12,9 @@ A few resources to get you started if this is your first Flutter project:
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
 
-1- Criar uma conta/login
-2- Adicionar fotos ao perfil
-3- Navegar entre os perfis
-4- Tela de match
-5- Chat
+<br> 1- Criar uma conta/login
+<br> 2- Adicionar fotos ao perfil
+<br> 3- Navegar entre os perfis
+<br> 4- Tela de match
+<br> 5- Chat
 
